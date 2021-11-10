@@ -1,6 +1,6 @@
 .footer{
     position:calc(100% - 60px);
-
+    text-align: justify; 
 
 }
 .footer-anchor{

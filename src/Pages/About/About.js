@@ -77,11 +77,11 @@ const About = () => {
                 <h1 className="text-center mt-5">What Actually Are We?</h1>
                 <p className="text-muted text-center ">Our Specialist Doctor are available any time now in NNB Health Care,No more hesitation to go abroad.</p>
                 <div className="bg-black">
-                    <div className="d-flex mx-5  text-white p-4">
+                    <div className="container  d-flex  text-white p-4">
                         <div><p className="mx-3 mt-5">" A good relationship between a patient and his or her physician is the cornerstone of superb medical care. That relationship is important when you know the doctor well. It may be even more important when you don’t, say when you are in the hospital.Growing competition for new customers is inspiring American hospitals to focus on providing a more positive patient experience — and hospitals expect their doctors to do their part. "</p> <br />
                             <h4>-Dr. Anupum Reja Senior</h4>
                         </div>
-                        <div><iframe width="560" height="280" src="https://www.youtube.com/embed/2B4y7C7-I2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+                       
 
                     </div>
 
