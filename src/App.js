@@ -17,7 +17,7 @@ import Register from './Login/Register/Register';
 
 function App() {
   return (
-    <div >
+    <div className="">
      <AuthProvider> <Router>
         <Header></Header>
         <Switch>
